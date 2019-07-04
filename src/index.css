@@ -11,9 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
-html {
-  background: 0ch;
-  scroll-margin: 1;
-  scroll-behavior: auto;
-}
